@@ -44,6 +44,7 @@ public class Art {
         StdDraw.setCanvasSize(460, 980);
         StdDraw.picture(0.5, 0.5, "Mandalorian.jpg");
         // To show at once
+        // (comment out if want to see the process)
         // warning! takes FOREVER
         // StdDraw.enableDoubleBuffering();
         int n1 = 10; // number of recursion for the branch()
