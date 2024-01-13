@@ -38,7 +38,8 @@ If you are using IntelliJ IDEA, you can follow these specific steps:
 The fractal tree on the left side of the scene is created using a recursive algorithm. The color of the branches changes as the length decreases, adding visual interest to the tree.
 
 ## Artwork Progress
-![IMG_2441.jpg](..%2FIMG_2441.jpg)
-![IMG_2446.jpg](..%2FIMG_2446.jpg)
-![IMG_2444.jpg](..%2FIMG_2444.jpg)
-![Screen Shot 2022-10-12 at 4.47.40 PM.jpg](..%2FScreen%20Shot%202022-10-12%20at%204.47.40%20PM.jpg)
+![Tree Progress1](images/tree_progress1.jpg)
+![Tree Progress2](images/tree_progress2.jpg)
+![Tree Progress2](images/tree_progress3.jpg)
+![Tree Progress2](images/tree_progress4.jpg)
+
